@@ -70,3 +70,16 @@ Once the command has ran, And the returned output said it completed sucessfully,
 ![Preview](Preview/prev_make3.png)
 
 Now you are done, you can now publish that, or use it as is.
+
+## Publishing your dotfile configuration to the library
+
+#### Now you have made your file to publish, you actually need to publish your file to the dotfile library for other people to download and apply to their system.
+
+First, Fork the ```archinstal-dotfile-library``` repository using [GitHub](https://github.com).
+
+Go to the repository: [archinstall-dotfile-library](https://github.com/NoSleepKid/archinstal-dotfile-library) and fork the repository.
+
+![Preview](Preview/prev_pub1.png)
+
+![Prewiew](Preview/prev_pub2.png)
+
