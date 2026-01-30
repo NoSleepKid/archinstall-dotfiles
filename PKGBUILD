@@ -4,7 +4,7 @@
 # Contributor: Anton Hvornum <anton@hvornum.se>
 # Contributor: demostanis worlds <demostanis@protonmail.com>
 
-pkgname=archinstall
+pkgname=archinstall-dotfiles
 pkgver=3.0.15
 pkgrel=1
 pkgdesc="Just another guided/automated Arch Linux installer with a twist"

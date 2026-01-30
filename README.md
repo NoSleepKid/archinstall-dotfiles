@@ -83,3 +83,9 @@ Go to the repository: [archinstall-dotfile-library](https://github.com/NoSleepKi
 
 ![Prewiew](Preview/prev_pub2.png)
 
+#### Then, clone your newly forked repository.
+
+```git clone https://github.com/YOURUSERNAME/REPOSITORYNAME.git``` Replace YOURUSERNAME and REPOSITORYNAME with the real thing.
+
+```cd REPOSITORYNAME``` Replave REPOSITORYNAME with your repository name.
+
