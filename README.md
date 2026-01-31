@@ -3,7 +3,9 @@
 
 <!-- </div> -->
 # Arch Installer (With dotfiles)
-[![Lint Python and Find Syntax Errors](https://github.com/archlinux/archinstall/actions/workflows/flake8.yaml/badge.svg)](https://github.com/archlinux/archinstall/actions/workflows/flake8.yaml)
+
+[![Install ▾](https://img.shields.io/badge/Install-▾-blue?style=for-the-badge&logo=download&logoColor=white)](https://github.com/NoSleepKid/archinstall-dotfiles#readme)
+
 
 ### A fork of [archinstall](https://github.com/archlinux/archinstall) that provides options to automaticilly install dotfiles from a repository, file, or our library.
 
@@ -89,3 +91,14 @@ Go to the repository: [archinstall-dotfile-library](https://github.com/NoSleepKi
 
 ```cd REPOSITORYNAME``` Replave REPOSITORYNAME with your repository name.
 
+Now, you can add your file to it using the publish TUI.
+
+```archinstall-dotfiles --publish [PATH]``` Replace [PATH] with the path of your ```.installdot``` file.
+
+#### Now, provide the info you want to place on the entry.
+
+#### Provide the dotfiles name, maker display name, etc.
+
+#### Now, after your dotfile has beem added to the library, Issue a full pull request to the library from your fork.
+
+#### Within a couple days, or hours (it depends) your request should be accepted and your dotfile should appear in the library!
